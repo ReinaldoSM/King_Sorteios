@@ -34,7 +34,7 @@ Se estiver hospedado na Vercel ou GitHub Pages, adicione o link aqui.
 
 Exemplo:
 
-https://seu-projeto.vercel.app
+(https://reinaldosm.github.io/King_Sorteios/)
 
 ## 👨‍💻 Autor
 
