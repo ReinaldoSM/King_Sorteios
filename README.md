@@ -28,22 +28,6 @@ Durante o desenvolvimento deste projeto, pude praticar conceitos importantes com
 - Validação de formulários;
 - Organização e estruturação de código.
 
-## 💻 Como executar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-```
-
-2. Acesse a pasta do projeto.
-
-3. Abra o arquivo `index.html` no navegador.
-
-## 📸 Preview
-
-Adicione aqui uma imagem ou GIF do projeto.
-
 ## 🔗 Projeto Online
 
 Se estiver hospedado na Vercel ou GitHub Pages, adicione o link aqui.
